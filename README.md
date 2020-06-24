@@ -14,5 +14,11 @@ Dataset used: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 I am using 400 images and representing them using 10 eigenfaces.
 
+Domo video : demo_eigenface.mp4
+
+
+
+
+
 
 
