@@ -16,6 +16,22 @@ I am using 400 images and representing them using 10 eigenfaces.
 
 Domo video : demo_eigenface.mp4
 
+Weight--    What it captures/represents:
+
+Weight 0--    Backgraound
+
+Weight 1--    Hairstyle
+
+Weight 2--    Top to bottom Lighting condition (on background and hairstyle)
+
+Weight 3--   Short hairstyle
+
+Weight 4--    Face skintone
+
+Weight 5--  Sideways lighting conditions
+
+Weight 6--   Masculine and Faminine features
+
 
 
 
